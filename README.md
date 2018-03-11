@@ -6,12 +6,12 @@ src/index.js dosyasındaki seçimle ilgili olmayan dizi yoruma alındıktan sonr
 
 
 development serverını başlatmak için 
-'''bash
+```bash
 npm start
-'''
+```
 
 Seçimler için ayrı ayrı production buildler aşağıdaki komutla alınıp [serve](https://www.npmjs.com/package/serve) ile çalıştırılmıştır.
 
-'''bash
+```bash
 npm run build
-'''
+```
